@@ -1,0 +1,52 @@
+
+body {
+   
+}
+
+/* Navbar */
+.navbar {
+    list-style: none;
+    padding: 0;
+    overflow: hidden;
+    background: color #444444;
+}
+
+.navbar li {
+    float: left;
+}
+
+.navbar li a {
+    display: block;
+    color: black;
+    padding: 14px 16px;
+}
+
+.navbar li a:hover {
+    background-color: #111111;
+}
+
+/* Header */
+header {
+    text-align: center;
+}
+
+/* Seattle Section */
+#sea-skyline {
+    display: block;
+    height: auto;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px 20px;
+    background-color: #444;
+    color: white;
+}
+
+p {
+    margin: 20px 
+}
